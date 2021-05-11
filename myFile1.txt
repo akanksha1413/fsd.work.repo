@@ -1,0 +1,3 @@
+This is the second file named as myFile1.txt. It is being edited in vi editor.
+This is extra content added.
+
